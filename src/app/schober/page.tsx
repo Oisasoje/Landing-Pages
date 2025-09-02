@@ -132,12 +132,12 @@ const Landing_Page = () => {
           className={`${kanit.className} flex flex-col gap-4 text-xl mt-10 w-[500px] max-w-[90%]`}
         >
           <h2 className={`text-center font-bold md:text-4xl text-2xl`}>
-            Here's What You Will Learn In This Training...
+            Here&apos;s What You Will Learn In This Training...
           </h2>
           <p>
             <span className="font-bold">Secret 1:</span> The exact 3 step system
-            I've used to help 200+ men drop 15-80 pounds, build strength, and
-            reclaim their discipline.
+            I&apos;ve used to help 200+ men drop 15-80 pounds, build strength,
+            and reclaim their discipline.
           </p>
           <p>
             <span className="font-bold">Secret 2:</span> Why restrictive diets
